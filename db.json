@@ -12,9 +12,10 @@
     }
   ],
   "products":[
+  "categary":"food"
 
   ],
   "todo":[
-    
+    "task":"Task1"
   ]
 }
