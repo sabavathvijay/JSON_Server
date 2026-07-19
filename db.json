@@ -1,14 +1,10 @@
 {
   "Users": [
-    {
-      "name": "Vijay",
-      "id": 1,
-      "branch": "CSD"
-    },
+  
     {
       "name": "Vijay Chauhan",
       "branch": "CSE",
-      "id": 2
+      "id": 1
     }
   ],
   "products": [
