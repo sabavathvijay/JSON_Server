@@ -11,11 +11,24 @@
       "id": 2
     }
   ],
-  "products":[
-  "categary":"food"
-
+  "products": [
+    {
+      "categary": "food",
+      "id": 1
+    },
+    {
+      "categary": "Cloths",
+      "id": 3
+    },
+    {
+      "categary": "Vegetables",
+      "id": 2
+    }
   ],
-  "todo":[
-    "task":"Task1"
+  "todo": [
+    {
+      "task": "Task1",
+      "id": 1
+    }
   ]
 }
