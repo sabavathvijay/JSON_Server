@@ -1,1 +1,6 @@
-My JSON file, Live Server API :  https://json-server-6pxy.onrender.com/users
+My JSON file, Live Server
+## APIs : Free to Use 
+ 1. Users API: https://json-server-osgx.onrender.com/Users
+ 2. Users API: https://json-server-osgx.onrender.com/products
+ 3. Users API: https://json-server-osgx.onrender.com/todo
+
