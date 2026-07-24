@@ -2,8 +2,10 @@
   "Users": [
   
     {
-      "name": "Vijay Chauhan",
-      "branch": "CSE",
+       "userName": "Vijay",
+    "email": "admin1@gmail.com",
+    "mobile": "9876543210",
+    "password": "admin1",
       "id": 1
     }
   ],
