@@ -2,13 +2,13 @@
 
 
 
-  "Users": [
+  "users": [
   
     {
-       "userName": "Vijay",
-    "email": "admin1@gmail.com",
+       "userName": "Admin",
+    "email": "admin@gmail.com",
     "mobile": "9876543210",
-    "password": "admin1",
+    "password": "admin",
       "id": 1
     }
 
@@ -19,7 +19,7 @@
 
 
 
-  
+
 
 
 
